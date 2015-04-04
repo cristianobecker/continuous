@@ -1,0 +1,220 @@
+Thu Apr 02 2015 23:18:17 GMT+0000 (UTC) - INFO - /hook
+Thu Apr 02 2015 23:18:17 GMT+0000 (UTC) - ERROR - error parser
+Thu Apr 02 2015 23:18:27 GMT+0000 (UTC) - INFO - /hook
+Thu Apr 02 2015 23:18:27 GMT+0000 (UTC) - ERROR - error parser
+Thu Apr 02 2015 23:18:37 GMT+0000 (UTC) - INFO - /hook
+Thu Apr 02 2015 23:18:37 GMT+0000 (UTC) - INFO - deploy start mundoedu-teste
+Thu Apr 02 2015 23:18:37 GMT+0000 (UTC) - INFO - commits: teste 25
+
+Thu Apr 02 2015 23:20:20 GMT+0000 (UTC) - INFO - /hook
+Thu Apr 02 2015 23:20:20 GMT+0000 (UTC) - ERROR - error parser
+Thu Apr 02 2015 23:21:11 GMT+0000 (UTC) - INFO - /hook
+Thu Apr 02 2015 23:21:11 GMT+0000 (UTC) - INFO - deploy start mundoedu-teste
+Thu Apr 02 2015 23:21:11 GMT+0000 (UTC) - INFO - commits: 
+     teste 26
+     teste 27
+     teste 28
+Thu Apr 02 2015 23:35:19 GMT+0000 (UTC) - INFO - /hook
+Thu Apr 02 2015 23:35:19 GMT+0000 (UTC) - INFO - deploy start mundoedu-teste
+Thu Apr 02 2015 23:35:19 GMT+0000 (UTC) - INFO - commits: 
+     REAL COMMIT
+Thu Apr 02 2015 23:35:19 GMT+0000 (UTC) - INFO - git pull
+Thu Apr 02 2015 23:35:21 GMT+0000 (UTC) - INFO - Updating 6e99654..5ee8b59
+Fast-forward
+ index.html | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 index.html
+
+Thu Apr 02 2015 23:35:21 GMT+0000 (UTC) - INFO - done...
+Thu Apr 02 2015 23:36:38 GMT+0000 (UTC) - INFO - /hook
+Thu Apr 02 2015 23:36:38 GMT+0000 (UTC) - INFO - deploy start mundoedu-teste
+Thu Apr 02 2015 23:36:38 GMT+0000 (UTC) - INFO - commits: 
+     teste 29(cristianobecker)
+     teste 30(cristianobecker)
+     teste 31(cristianobecker)
+Thu Apr 02 2015 23:36:38 GMT+0000 (UTC) - INFO - git pull
+Thu Apr 02 2015 23:38:41 GMT+0000 (UTC) - INFO - /hook
+Thu Apr 02 2015 23:38:41 GMT+0000 (UTC) - INFO - deploy start mundoedu-teste
+Thu Apr 02 2015 23:38:41 GMT+0000 (UTC) - INFO - commits: 
+     teste 32 (cristianobecker)
+Thu Apr 02 2015 23:38:41 GMT+0000 (UTC) - INFO - git pull
+Thu Apr 02 2015 23:38:43 GMT+0000 (UTC) - INFO - Updating a547521..d5b10cd
+Fast-forward
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+Thu Apr 02 2015 23:38:43 GMT+0000 (UTC) - ERROR - From bitbucket.org:cristianobecker/mundoedu-teste
+   a547521..d5b10cd  master     -> origin/master
+
+Thu Apr 02 2015 23:38:43 GMT+0000 (UTC) - INFO - done...
+Thu Apr 02 2015 23:39:13 GMT+0000 (UTC) - INFO - /hook
+Thu Apr 02 2015 23:39:13 GMT+0000 (UTC) - INFO - deploy start mundoedu-teste
+Thu Apr 02 2015 23:39:13 GMT+0000 (UTC) - INFO - commits: 
+     teste 33 (cristianobecker)
+Thu Apr 02 2015 23:39:13 GMT+0000 (UTC) - INFO - git pull
+Thu Apr 02 2015 23:40:47 GMT+0000 (UTC) - INFO - /hook
+Thu Apr 02 2015 23:40:47 GMT+0000 (UTC) - INFO - deploy start mundoedu-teste
+Thu Apr 02 2015 23:40:47 GMT+0000 (UTC) - INFO - commits: 
+     REAL COMMIT 2 (cristianobecker)
+Thu Apr 02 2015 23:40:47 GMT+0000 (UTC) - INFO - git pull
+Thu Apr 02 2015 23:40:49 GMT+0000 (UTC) - INFO - Updating 88beac7..31c35fd
+Fast-forward
+ index.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+Thu Apr 02 2015 23:40:49 GMT+0000 (UTC) - ERROR - From bitbucket.org:cristianobecker/mundoedu-teste
+   88beac7..31c35fd  master     -> origin/master
+
+Thu Apr 02 2015 23:40:49 GMT+0000 (UTC) - INFO - done...
+Thu Apr 02 2015 23:41:11 GMT+0000 (UTC) - INFO - /hook
+Thu Apr 02 2015 23:41:11 GMT+0000 (UTC) - INFO - deploy start mundoedu-teste
+Thu Apr 02 2015 23:41:11 GMT+0000 (UTC) - INFO - commits: 
+     teste 34 (cristianobecker)
+Thu Apr 02 2015 23:41:11 GMT+0000 (UTC) - INFO - git pull
+Thu Apr 02 2015 23:41:13 GMT+0000 (UTC) - INFO - Updating 31c35fd..3d27af9
+Fast-forward
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+Thu Apr 02 2015 23:41:13 GMT+0000 (UTC) - ERROR - From bitbucket.org:cristianobecker/mundoedu-teste
+   31c35fd..3d27af9  master     -> origin/master
+
+Thu Apr 02 2015 23:41:13 GMT+0000 (UTC) - INFO - done...
+Thu Apr 02 2015 23:44:53 GMT+0000 (UTC) - INFO - /hook
+Thu Apr 02 2015 23:44:53 GMT+0000 (UTC) - INFO - deploy start mundoedu-teste
+Thu Apr 02 2015 23:44:53 GMT+0000 (UTC) - INFO - commits: 
+     teste 35 (cristianobecker)
+     teste 36 (cristianobecker)
+Thu Apr 02 2015 23:44:53 GMT+0000 (UTC) - INFO - locked? undefined / undefined
+Thu Apr 02 2015 23:44:53 GMT+0000 (UTC) - INFO - git pull
+Thu Apr 02 2015 23:45:16 GMT+0000 (UTC) - INFO - /hook
+Thu Apr 02 2015 23:45:16 GMT+0000 (UTC) - INFO - deploy start mundoedu-teste
+Thu Apr 02 2015 23:45:16 GMT+0000 (UTC) - INFO - commits: 
+     teste 37 (cristianobecker)
+     teste 38 (cristianobecker)
+Thu Apr 02 2015 23:45:16 GMT+0000 (UTC) - INFO - locked? undefined / undefined
+Thu Apr 02 2015 23:45:16 GMT+0000 (UTC) - INFO - git pull
+Thu Apr 02 2015 23:45:17 GMT+0000 (UTC) - INFO - Updating e4f5da5..87f2b2b
+Fast-forward
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+Thu Apr 02 2015 23:45:17 GMT+0000 (UTC) - ERROR - From bitbucket.org:cristianobecker/mundoedu-teste
+   e4f5da5..87f2b2b  master     -> origin/master
+
+Thu Apr 02 2015 23:45:17 GMT+0000 (UTC) - INFO - done...
+Thu Apr 02 2015 23:47:20 GMT+0000 (UTC) - INFO - /hook
+Thu Apr 02 2015 23:47:20 GMT+0000 (UTC) - INFO - deploy start mundoedu-teste
+Thu Apr 02 2015 23:47:20 GMT+0000 (UTC) - INFO - commits: 
+     teste 39 (cristianobecker)
+     teste 40 (cristianobecker)
+Thu Apr 02 2015 23:48:35 GMT+0000 (UTC) - INFO - /hook
+Thu Apr 02 2015 23:48:35 GMT+0000 (UTC) - INFO - deploy start mundoedu-teste
+Thu Apr 02 2015 23:48:35 GMT+0000 (UTC) - INFO - commits: 
+     teste 41 (cristianobecker)
+Thu Apr 02 2015 23:49:38 GMT+0000 (UTC) - INFO - /hook
+Thu Apr 02 2015 23:49:38 GMT+0000 (UTC) - INFO - deploy start mundoedu-teste
+Thu Apr 02 2015 23:49:38 GMT+0000 (UTC) - INFO - commits: 
+     teste 42 (cristianobecker)
+Thu Apr 02 2015 23:49:38 GMT+0000 (UTC) - INFO - locked? undefined / undefined / undefined
+Thu Apr 02 2015 23:49:38 GMT+0000 (UTC) - INFO - git pull
+Thu Apr 02 2015 23:49:39 GMT+0000 (UTC) - INFO - Updating 87f2b2b..bfbd0e4
+Fast-forward
+ README.md | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+Thu Apr 02 2015 23:49:39 GMT+0000 (UTC) - ERROR - From bitbucket.org:cristianobecker/mundoedu-teste
+   87f2b2b..bfbd0e4  master     -> origin/master
+
+Thu Apr 02 2015 23:49:39 GMT+0000 (UTC) - INFO - done...
+Thu Apr 02 2015 23:50:04 GMT+0000 (UTC) - INFO - /hook
+Thu Apr 02 2015 23:50:04 GMT+0000 (UTC) - INFO - deploy start mundoedu-teste
+Thu Apr 02 2015 23:50:04 GMT+0000 (UTC) - INFO - commits: 
+     teste 43 (cristianobecker)
+Thu Apr 02 2015 23:50:04 GMT+0000 (UTC) - INFO - locked? true / true / 1
+Thu Apr 02 2015 23:50:04 GMT+0000 (UTC) - ERROR - error locked
+Thu Apr 02 2015 23:51:26 GMT+0000 (UTC) - INFO - /hook
+Thu Apr 02 2015 23:51:26 GMT+0000 (UTC) - INFO - deploy start mundoedu-teste
+Thu Apr 02 2015 23:51:26 GMT+0000 (UTC) - INFO - commits: 
+     teste 44 (cristianobecker)
+Thu Apr 02 2015 23:51:26 GMT+0000 (UTC) - INFO - git pull
+Thu Apr 02 2015 23:51:28 GMT+0000 (UTC) - INFO - Updating bfbd0e4..097562e
+Fast-forward
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+Thu Apr 02 2015 23:51:28 GMT+0000 (UTC) - ERROR - From bitbucket.org:cristianobecker/mundoedu-teste
+   bfbd0e4..097562e  master     -> origin/master
+
+Thu Apr 02 2015 23:51:28 GMT+0000 (UTC) - INFO - done...
+Thu Apr 02 2015 23:51:39 GMT+0000 (UTC) - INFO - /hook
+Thu Apr 02 2015 23:51:39 GMT+0000 (UTC) - INFO - deploy start mundoedu-teste
+Thu Apr 02 2015 23:51:39 GMT+0000 (UTC) - INFO - commits: 
+     teste 45 (cristianobecker)
+Thu Apr 02 2015 23:51:39 GMT+0000 (UTC) - INFO - git pull
+Thu Apr 02 2015 23:51:41 GMT+0000 (UTC) - INFO - Updating 097562e..fc1f40e
+Fast-forward
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+Thu Apr 02 2015 23:51:41 GMT+0000 (UTC) - ERROR - From bitbucket.org:cristianobecker/mundoedu-teste
+   097562e..fc1f40e  master     -> origin/master
+
+Thu Apr 02 2015 23:51:41 GMT+0000 (UTC) - INFO - done...
+Thu Apr 02 2015 23:55:04 GMT+0000 (UTC) - INFO - /log
+Thu Apr 02 2015 23:59:14 GMT+0000 (UTC) - INFO - /log
+Thu Apr 02 2015 23:59:14 GMT+0000 (UTC) - INFO - /hook
+Thu Apr 02 2015 23:59:14 GMT+0000 (UTC) - INFO - deploy start mundoedu-teste
+Thu Apr 02 2015 23:59:14 GMT+0000 (UTC) - INFO - commits: 
+     teste 46 (cristianobecker)
+Thu Apr 02 2015 23:59:14 GMT+0000 (UTC) - INFO - git pull
+Thu Apr 02 2015 23:59:16 GMT+0000 (UTC) - INFO - /log
+Thu Apr 02 2015 23:59:16 GMT+0000 (UTC) - INFO - Updating fc1f40e..bfc7ecc
+Fast-forward
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+Thu Apr 02 2015 23:59:16 GMT+0000 (UTC) - ERROR - From bitbucket.org:cristianobecker/mundoedu-teste
+   fc1f40e..bfc7ecc  master     -> origin/master
+
+Thu Apr 02 2015 23:59:16 GMT+0000 (UTC) - INFO - /var/www/html/continuous
+
+Thu Apr 02 2015 23:59:16 GMT+0000 (UTC) - INFO - done...
+Thu Apr 02 2015 23:59:23 GMT+0000 (UTC) - INFO - /log
+Fri Apr 03 2015 00:03:52 GMT+0000 (UTC) - INFO - /log
+Fri Apr 03 2015 00:03:54 GMT+0000 (UTC) - INFO - /hook
+Fri Apr 03 2015 00:03:54 GMT+0000 (UTC) - INFO - deploy start mundoedu-teste
+Fri Apr 03 2015 00:03:54 GMT+0000 (UTC) - INFO - commits: 
+     DEPLOY FILE (cristianobecker)
+Fri Apr 03 2015 00:03:54 GMT+0000 (UTC) - INFO - git pull
+Fri Apr 03 2015 00:03:54 GMT+0000 (UTC) - INFO - /log
+Fri Apr 03 2015 00:03:56 GMT+0000 (UTC) - INFO - Updating bfc7ecc..80eff99
+Fast-forward
+ .deploy | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 .deploy
+DEPLOY FILE
+
+Fri Apr 03 2015 00:03:56 GMT+0000 (UTC) - ERROR - From bitbucket.org:cristianobecker/mundoedu-teste
+   bfc7ecc..80eff99  master     -> origin/master
+
+Fri Apr 03 2015 00:03:56 GMT+0000 (UTC) - INFO - done...
+Fri Apr 03 2015 00:03:56 GMT+0000 (UTC) - INFO - /log
+Fri Apr 03 2015 00:04:01 GMT+0000 (UTC) - INFO - /log
+Fri Apr 03 2015 00:04:08 GMT+0000 (UTC) - INFO - /log
+Fri Apr 03 2015 00:04:36 GMT+0000 (UTC) - INFO - /hook
+Fri Apr 03 2015 00:04:36 GMT+0000 (UTC) - INFO - deploy start mundoedu-teste
+Fri Apr 03 2015 00:04:36 GMT+0000 (UTC) - INFO - commits: 
+     teste 47 (cristianobecker)
+Fri Apr 03 2015 00:04:36 GMT+0000 (UTC) - INFO - git pull
+Fri Apr 03 2015 00:04:38 GMT+0000 (UTC) - INFO - Updating 80eff99..5477557
+Fast-forward
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+DEPLOY FILE
+
+Fri Apr 03 2015 00:04:38 GMT+0000 (UTC) - ERROR - From bitbucket.org:cristianobecker/mundoedu-teste
+   80eff99..5477557  master     -> origin/master
+
+Fri Apr 03 2015 00:04:38 GMT+0000 (UTC) - INFO - done...
+Fri Apr 03 2015 00:16:52 GMT+0000 (UTC) - INFO - /log
